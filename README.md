@@ -1,4 +1,4 @@
-# Go Random Name Generator CLI
+# Random Name Generator CLI
 
 This is a simple CLI tool written in Go that generates random names. It uses the Moby Project's name generation library for generating names.
 
