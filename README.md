@@ -13,7 +13,7 @@ This is a simple CLI tool written in Go that generates random names. It uses the
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/go-random-name-generator-cli.git
+    git clone https://github.com/hatemosphere/go-random-name-generator-cli.git
     ```
 
 2. Navigate into the project directory:
